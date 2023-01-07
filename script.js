@@ -32,7 +32,7 @@ function main_button_hover() {
           .replace("www.", "")
           .replace("/member", "")
           .replace("/user", "")
-          .replace("axorax.tk/", "axorax.tk")
+          .replace("axorax.github.io/", "axorax.github.io")
           .replace("axorax.itch.io/", "axorax.itch.io");
         document.querySelector(".wrapper_title").classList.add("t1");
       };

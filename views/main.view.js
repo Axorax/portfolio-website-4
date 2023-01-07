@@ -31,7 +31,7 @@ export const main = {
                       m(
                         "a",
                         {
-                          href: "https://axorax.tk/",
+                          href: "https://axorax.github.io/",
                           target: "_blank",
                         },
                         [
