@@ -1,0 +1,35 @@
+:root {
+  --font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  --card-background: #f9f9f9;
+  --body-background: #4249ff;
+  --body-circle-background: #5056ff;
+  --title-border-top: var(--gradient-3);
+  --button-border: #cdcdcd;
+  --title-color: #000;
+  --button-color: #000;
+  --button-background: #f0f0f0;
+  --button-background-rgba: 240, 240, 240;
+  --button-img-filter: invert(0);
+  --button-hover-background: #e0e0e0;
+  --button-hover-color: #000;
+  --about-text-color: #0f0f0f;
+  --about-title-color: #000;
+  --about-title-underline: #4158d0;
+  --scrollbar-track: #efefef;
+  --scrollbar-thumb: #cbcbcb;
+  --button-focus: #cdcdcd;
+  --default-text-color: #000;
+  --top-btn-filter: brightness(100%) invert(1);
+  --top-btn-background: 19, 19, 19;
+  --s-css-sans: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
+    "Nimbus Sans L", Roboto, "Noto Sans", "Segoe UI", Arial, Helvetica,
+    "Helvetica Neue", sans-serif;
+  --s-css-mono: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  --s-css-scheme: light;
+  --s-css-pre-bg: #efefef;
+  --s-css-pre-color: #000;
+  --s-css-pre-border: #d3d3d3;
+  --s-css-code: #eb455f;
+  --blog-title-bg: #efefef;
+}
